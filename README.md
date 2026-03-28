@@ -1,4 +1,4 @@
-# 🚨 AI-Powered Infrastructure Incident Assistant
+#  AI-Powered Infrastructure Incident Assistant
 
 An intelligent SRE tool that automatically fetches infrastructure alerts from **Prometheus** and **AWS CloudWatch**, analyzes them using **AI (LangChain + OpenAI)**, and delivers actionable root cause analysis and remediation steps to your **Slack** channel — in real time.
 
