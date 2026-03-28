@@ -198,13 +198,6 @@ incident-assistant/
 
 ---
 
-## 🎯 Resume Bullets
-
-> - Developed an AI-powered incident response tool using LangChain and OpenAI GPT that ingests Prometheus and AWS CloudWatch alerts, automatically generates root cause analysis and remediation steps, reducing manual triage effort significantly
-> - Containerized the application using Docker and exposed incident insights via a FastAPI REST endpoint, with automated Slack notifications delivering AI-generated summaries to on-call engineers in real time
-
----
-
 ## 👩‍💻 Author
 
 **Nidhi Zala** — CloudOps / SRE Engineer  
